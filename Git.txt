@@ -4,9 +4,9 @@ Git的诞生
 	Linux linus
 分布式和集中式
 Git安装:设置名字和邮箱	
-	$ git config --global user.name "ghy"
+	$ git config --global user.name "your name"
 
-	$ git config --global user.email "451748934@qq.com"
+	$ git config --global user.email "your emall@qq.com"
 创建版本库
 	创建空目录，作为版本库
 	初始化版本库
