@@ -69,3 +69,6 @@ Github
 	    git push -u origin master（写的是分支的name)
 	3.把远程仓库克隆到本地
 	   git clone 地址
+协同开发：
+	1.添加好友的SSH
+	2.添加git好友
