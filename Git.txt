@@ -74,6 +74,9 @@ Github
 	    	git push -u origin master（写的是分支的)
 	3.把远程仓库克隆到本地
 	   git clone 地址
+	4.如果远程仓库已存在就先删除
+	   查看仓库详细地址 git remote -v
+	   删除仓库 git remote rm origin 
 协同开发：
 	1.添加好友的SSH
 	2.添加git好友
